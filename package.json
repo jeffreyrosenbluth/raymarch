@@ -1,0 +1,14 @@
+{
+  "name": "acd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.1"
+  }
+}
